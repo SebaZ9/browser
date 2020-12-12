@@ -1,2 +1,2 @@
-# browser
+# Browser
 Simple Browser
